@@ -1,0 +1,77 @@
+﻿Facility Manager,Location,Cntry,WO#,Priority,Problem Code#,Sub Group,Problem Code Description,Problem Description,Status,Order Type,Employee Name,Vendor Name,Entered Date/Time,Target Completion,Caller,Predicted Problem Code,Predicted Problem Desc,Assigned Problem Desc,Prediction Confidence
+CBRE FM - Brent   Manness,4000 Seymour Pl-Seymour Bldg,"CA , BC, SAANICH",M1395474,P7,311011,Project Management,Project Creation - Capital,"Please note there are 2 CPJ's, one for Capital and one for Expense
+Project Creation - Capital:>
+Ministry –  Ministry of Children and Family
+Branch –  Ministry Operations
+Building ID – TBD (9999992)
+Agreement # - 5167854
+Client Contact – Charmaine Crowe
+ARES# - ARE-100023526
+CPJ# - 1020335
+Funding Source – Capital
+Funding Type – RPD Funded
+Project Type – TI
+Project Subtype – LWS
+Service Type – TI
+Budget – TI’s $2,764,000
+Requested Completion date – January 31, 2026
+AND 
+Project Creation - Expense:>
+Ministry –  Ministry of Children and Family
+Branch –  Interior
+Building ID – TBD (9999992)
+Agreement # - 5167854
+Client Contact – Charmaine Crowe
+ARES# - ARE-100023526
+CPJ# - 1020337
+Funding Source – Expense
+Funding Type – Client Funded
+Project Type – One Times
+Project Subtype – Move, Manage, Start Up
+Service Type – One Time Expense
+Budget – TI’s $141,000
+Requested Completion date – January 31, 2026",D,Move,Projects  Team,NotAvailable,2023-07-05 00:25:49.000,2023-07-14 00:25:00.000,Christina Khoury,311012,Project Creation - Expense,Project Creation - Capital,49%
+CBRE FM - Carmella   Filiatrault,13745 72nd Ave-Park Pl,"CA , BC, SURREY",C1395468,P3,131001,Cleaning,Cleaning - Biohazard,"Cleaning - Biohazard:>OK TO DO WITH REGULAR OVERNIGHT CLEANING. THEY WOULD LIKE BOTH OF THE ROOMS CLEANED Client advised that on the 1st floor in Western most part of the office, right beside the board room there are ants and rodents in the office. There are also ants and rodents in the kitchen Tim is site contact 604-537-3551",DAK,Corrective,NotAvailable,ALPINE BUILDING MAINTENANCE INC (497517),2023-07-05 00:03:05.307,2023-07-12 00:03:05.303,Tim Luis,311104,"OTSR Under $1,000",Cleaning - Biohazard,20%
+CBRE FM - Cleo   Dimitropoulos,2721 Lougheed Hwy-Programs,"CA , BC, COQUITLAM",C1395490,C3,131108,Cleaning,Cleaning - General Janitorial,Cleaning - General Janitorial:> REQUESTING FOR A ROOM CHANGE FOR ROOMS N124 N126,D,Corrective,NotAvailable,ALPINE BUILDING MAINTENANCE INC (497517),2023-07-05 02:08:38.000,2023-07-08 01:00:00.000,Jonathan Harder,131108,Cleaning - General Janitorial,Cleaning - General Janitorial,74%
+CBRE FM - Cleo   Dimitropoulos,X0090470,"CA , BC, ABBOTSFORD",C1395478,P3,101203,Fire Suppression,Fire Equipment - Repair,Fire Equipment - Repair:>Fire alarm sounded. Fire was dispatched. Please assist.,D,Corrective,CBRE OTL - Earl   Bloom,NotAvailable,2023-07-05 00:39:20.000,2023-07-12 00:39:00.000,Paladin,171708,Alarm - Fire System Sounding,Fire Equipment - Repair,62%
+CBRE FM - Cleo   Dimitropoulos,X0090470,"CA , BC, ABBOTSFORD",C1395480,P1,311104,OTSR Client Recoverable - Tenant Improvement,OTSR - Under $1000,OTSR - Under $1000:>tech advised that the fire alarm went off and he needs Vendor to attend urgently to reset the  fire panel. Contact Earl Bloom for access 778-684-1679,D,Corrective,NotAvailable,PACIFIC COAST FIRE EQUIPMENT (1976) LTD,2023-07-05 00:47:59.000,2023-07-05 04:47:00.000,Earl Bloom,101201,Fire Equipment - Alarm Panel Maintenance,"OTSR Under $1,000",77%
+CBRE FM - Cleo   Dimitropoulos,X0090470,"CA , BC, ABBOTSFORD",C1395485,C3,141302,Electrical,Electrical - Repair or Replace,Electrical - Repair or Replace:> Please look at relocating the breaker for the air compressor that serves the sprinkler system. As it keeps tripping.,D,Corrective,NotAvailable,Norich Electric Ltd,2023-07-05 01:26:36.000,2023-07-08 01:00:00.000,Earl Bloom,141703,HVAC - Repairs,Electrical - Repair or Replace,32%
+CBRE FM - Glenn (Christopher)   Flanagan,1201 103Rd Ave-Crthouse,"CA , BC, DAWSON CREEK",C1395495,P7,311174,General Facilities Services,In-Year PJ Form,In-Year PJ Form:> Electrical repairs to car plugs and exterior lighting on building.,D,Corrective,Capital Planning   Team,NotAvailable,2023-07-05 04:53:22.000,2023-07-14 01:00:00.000,Glenn (Christopher) Flanagan,141302,Electrical - Repair or Replace,In-Year PJ Form,90%
+CBRE FM - Glenn (Christopher)   Flanagan,1600 15th Ave-K Dialysis,"CA , BC, PRINCE GEORGE",C1395486,C3,131107,Cleaning,Floor Mats - Replacement,"Floor Mats - Replacement:>Created to pay June 7th mat rental Inv 1827650: 
+MATSL4X6 MAT 4X6 BLACK 2 2 $6.0000 $12.00 $0.00 $12.00
+2 MATSL4X8 MAT 4X8 BLACK 1 1 $8.0000 $8.00 $0.00 $8.00
+3 MATSL3X10 MAT 3X10 BLACK 4 4 $7.5000 $30.00 $0.00 $30.00
+Enviro/Energy Surcharge $7.50 $0.00 $7.50",CPW,Corrective,NotAvailable,Spotless Uniform Ltd,2023-07-05 01:30:00.000,2023-07-08 01:00:00.000,CBRE Admin,131107,Floor Mats - Replacement,Floor Mats - Replacement,99%
+CBRE FM - Glenn (Christopher)   Flanagan,1600 15th Ave-K Dialysis,"CA , BC, PRINCE GEORGE",C1395488,C3,131107,Cleaning,Floor Mats - Replacement,"Floor Mats - Replacement:>Work order created to pay June 14 mat rental Inv# 1829205: 
+
+MATSL4X6 MAT 4X6 BLACK 2 2 $6.0000 $12.00 $0.00 $12.00
+2 MATSL4X8 MAT 4X8 BLACK 1 1 $8.0000 $8.00 $0.00 $8.00
+3 MATSL3X10 MAT 3X10 BLACK 4 4 $7.5000 $30.00 $0.00 $30.00
+Enviro/Energy Surcharge $7.50 $0.00 $7.50",CPW,Corrective,NotAvailable,Spotless Uniform Ltd,2023-07-05 01:35:14.000,2023-07-08 01:00:00.000,CBRE Admin,131107,Floor Mats - Replacement,Floor Mats - Replacement,98%
+CBRE FM - Glenn (Christopher)   Flanagan,5125 50th St SW-Health Ctr,"CA , BC, CHETWYND",C1395487,P7,131107,Cleaning,Floor Mats - Replacement,"Floor Mats - Replacement:>Work order created to pay June 15th mat rental Inv# 1829832: 
+MATSL3X5 MAT 3X5 BLACK 1 1 $5.0000 $5.00 $0.00 $5.00
+2 MATSL4X6 MAT 4X6 BLACK 2 2 $7.9700 $15.94 $0.00 $15.94
+3 MATSL3X10 MAT 3X10 BLACK 3 3 $9.9600 $29.88 $0.00 $29.88
+Enviro/Energy Surcharge $5.95 $0.00 $5.95",CPW,Corrective,NotAvailable,Spotless Uniform Ltd,2023-07-05 01:32:49.000,2023-07-14 01:00:00.000,CBRE Admin,131107,Floor Mats - Replacement,Floor Mats - Replacement,98%
+CBRE FM - Glenn (Christopher)   Flanagan,X0090683,"CA , BC, DAWSON CREEK",C1395493,P7,311174,General Facilities Services,In-Year PJ Form,In-Year PJ Form:>Supply and install emergency and exit lights in the warehouse.,D,Corrective,Capital Planning   Team,NotAvailable,2023-07-05 03:14:47.000,2023-07-14 01:00:00.000,Glenn (Christopher) Flanagan,141602,General Building Maintenance,In-Year PJ Form,40%
+CBRE FM - Jaime   Hurd,5840 Cedarbridge Way-Office,"CA , BC, RICHMOND",C1395473,P3,141704,HVAC,Too Hot/Too Cold,"Too Hot/Too Cold:>A number of offices dont have air circulating via the HVAC. These offices are really hot. In addition, a couple offices are freezing. Requesting someone attend the office to reset the thermostats.",OAD,Corrective,CBRE OTL - Radu  Zipis,NotAvailable,2023-07-05 00:19:39.623,2023-07-12 00:19:39.773,Lauren Newton,141704,Too Hot/Too Cold,Too Hot/Too Cold,64%
+CBRE FM - Kelssay  Hurd,800 Smithe St-Blk 71 Courts,"CA , BC, VANCOUVER",C1395494,P3,141903,Lighting,Lighting - Interior Maintenance,Lighting - Interior Maintenance:>level 1 flourescent tube lights at top of lima stairwell in need of replacement,D,Corrective,CBRE Tech - Perry  McGinity,NotAvailable,2023-07-05 04:41:56.000,2023-07-12 01:00:00.000,BUILDING OCCUPANYT,141903,Lighting - Interior Maintenance,Lighting - Interior Maintenance,97%
+CBRE FM - Kyle   Judson,X0090845,"CA , BC, KAMLOOPS",C1395472,P2,131001,Cleaning,Cleaning - Biohazard,"Cleaning - Biohazard:> 1st floor Sherrif block Cell # M- client is requesting a bio clean, fleeces. Site contact Jarret Battistella 250-828-4372.",D,Corrective,NotAvailable,Bee-Clean Building Maintenance Inc (492375),2023-07-05 00:14:07.000,2023-07-05 18:12:00.000,Jarret Battistella,131001,Cleaning - Biohazard,Cleaning - Biohazard,93%
+CBRE FM - Kyle   Judson,X0090845,"CA , BC, KAMLOOPS",C1395476,P3,142108,Plumbing,Plumbing Repairs,Plumbing Repairs:>Toliet is not flushing in Sheriff's cell block Cell L.  Please assist.,D,Corrective,CBRE Tech - Kevin   Beesley,NotAvailable,2023-07-05 00:34:46.000,2023-07-12 00:34:00.000,Jason Dean,142108,Plumbing Repairs,Plumbing Repairs,100%
+CBRE FM - Malcolm   Ferguson,1451 Kingsway Ave-Pre-Trial,"CA , BC, PORT COQUITLAM",C1395484,C3,141302,Electrical,Electrical - Repair or Replace,Electrical - Repair or Replace:>Box above the door for the negative pressure indicator light has been taken apart by an inmate and is missing.  Needs to be replaced.,OAD,Corrective,CBRE Tech (innovation) - Sam   Montano,NotAvailable,2023-07-05 01:24:49.163,2023-07-08 01:00:00.000,Rakesh Joshi,141302,Electrical - Repair or Replace,Electrical - Repair or Replace,26%
+CBRE FM - Merril   Moore,6551 Aulds Rd-Hong Kong Bank,"CA , BC, NANAIMO",C1395481,P3,101203,Fire Suppression,Fire Equipment - Repair,"Fire Equipment - Repair:>Repairs required following inspection P1355361: 
+To Supply and replace 10 exit signs with running man type with battery back up due to all the
+existing exit signs. LEDs are so dim that you cannot tell if they are on or not and do not meet the 54 LUX as stipulated in code. Also, the rest of the building is getting updated to running man exit signs.
+For the replacement of ten (10) ECESPLRUM-120/347V Exit Sign with Battery Back Up, Travel
+Charge, minor adjustment and labour",QA1,Corrective,NotAvailable,PACIFIC COAST FIRE EQUIPMENT (1976) LTD,2023-07-05 01:11:52.000,2023-07-12 01:00:00.000,CBRE Admin,101203,Fire Equipment - Repair,Fire Equipment - Repair,99%
+CBRE FM - Michael  Lorusso,224 10th Ave-Crthouse,"CA , BC, CRESTON",C1395479,P7,141602,General,General Building Maintenance,"General Building Maintenance:>detailed pics of the vacant space located between Court Services and MCFD space, see attached diagram.",D,Corrective,CBRE Tech - Ron   Russell,NotAvailable,2023-07-05 00:42:38.000,2023-07-14 00:41:00.000,Mark Timmins,151018,Vacant Space,General Building Maintenance,39%
+CBRE FM - Peter   Jennings,X0090019,"CA , BC, SAANICH",S1395482,C3,141302,Electrical,Electrical - Repair or Replace,Electrical - Repair or Replace :>Ups for backups as main ups failed,CBT,SelfGen,CBRE Tech - Jesse   Mathiesen,NotAvailable,2023-07-05 01:21:44.703,2023-07-08 01:00:00.000,NotAvailable,141305,Generator - Repair,Electrical - Repair or Replace,40%
+CBRE FM - Peter   Jennings,X0090019,"CA , BC, SAANICH",S1395483,C3,141302,Electrical,Electrical - Repair or Replace,Electrical - Repair or Replace :>Radio repair,CBT,SelfGen,CBRE Tech - Jesse   Mathiesen,NotAvailable,2023-07-05 01:22:26.950,2023-07-08 01:00:00.000,NotAvailable,311106,Mandatory Operating Equipment - Minor,Electrical - Repair or Replace,35%
+CBRE FM - Richard   Dane,X5000130,"CA , BC, CHILLIWACK",C1395475,P2,141704,HVAC,Too Hot/Too Cold,"Too Hot/Too Cold:>Client advised that on the 2ND floor, room 1527, the room is very hot. It is 81F and there is no remote in the room.  Room is occupied. Front desk is site contact 604-703-2400",D,Corrective,CBRE Tech - Adrian  Besse,NotAvailable,2023-07-05 00:33:12.000,2023-07-05 18:32:00.000,PRTC Front Desk,141704,Too Hot/Too Cold,Too Hot/Too Cold,89%
+CBRE FM - Richard   Dane,X5000130,"CA , BC, CHILLIWACK",S1395469,P90,141602,General,General Building Maintenance,"General Building Maintenance:>OTL to print and post on site 2 TSBC BPV permits dated XXX, they  will be sent by separate email from CMMS",O,SelfGen,Employee CBRE - Teri  Walch,NotAvailable,2023-07-05 00:03:58.000,2023-11-08 00:03:00.000,CBRE Admin,141602,General Building Maintenance,General Building Maintenance,100%
+CBRE FM - Shauna   Hesse,4322 13th Ave-Det-N Dist,"CA , BC, NEW HAZELTON",S1395489,P7,141602,General,General Building Maintenance,General Building Maintenance :>Mount boot brush outside rear staff entry per request,CBT,SelfGen,CBRE Tech - Steve  deHoog,NotAvailable,2023-07-05 02:05:20.713,2023-07-14 01:00:00.000,NotAvailable,141602,General Building Maintenance,General Building Maintenance,75%
+CBRE FM - Shauna   Hesse,5220 Keith Ave-BC Hydro,"CA , BC, TERRACE",C1395477,P3,141203,Doors,Door - Interior Repair (Glass/Frame/Closer),Door - Interior Repair (Glass/Frame/Closer):>Handle of door to downstairs locker room is very wiggly and locked a member of staff inside the locker room. Will need to have the door handle looked at.,OAD,Corrective,CBRE Tech - Jordan  Domreis,NotAvailable,2023-07-05 00:37:11.660,2023-07-12 00:37:11.690,Andrew Robinson,171404,Door Lock - Repair,Door - Repair (Glass/Frame/Closer),83%
+CBRE FM - Shauna   Hesse,X0090840,"CA , BC, DEASE LAKE",C1395471,P7,141602,General,General Building Maintenance,General Building Maintenance:>*Work order for payment purposes only for P1362476*,CPW,Corrective,NotAvailable,Kerf Construction Ltd (620117),2023-07-05 00:12:19.000,2023-07-14 00:11:00.000,CBRE Admin,141806,Interior Repair,General Building Maintenance,10%
+CBRE FM - Shawn  Riches,1690 Powick Rd-Aberdeen Place,"CA , BC, KELOWNA",C1395470,P21,311104,OTSR Client Recoverable - Tenant Improvement,OTSR - Under $1000,OTSR - Under $1000:>2 cork bulletin boards arrived that need to be installed on the wall.,OAD,Corrective,OTSR   Team,NotAvailable,2023-07-05 00:10:40.790,2023-08-03 00:10:40.937,Ashley Condie,311104,"OTSR Under $1,000","OTSR Under $1,000",80%
+CBRE Tech - Steven  Ofner,525 South Rd-Det E0712,"CA , BC, GABRIOLA ISLAND",S1395491,P3,142108,Plumbing,Plumbing Repairs,Plumbing Repairs :>Replace galvanized cap with brass cap,CBT,SelfGen,CBRE Tech - Jason  Stochmal,NotAvailable,2023-07-05 02:16:53.623,2023-07-12 01:00:00.000,NotAvailable,141602,General Building Maintenance,Plumbing Repairs,67%
+CBRE Tech - Steven  Ofner,847 Carmen Cr-MQ E0281,"CA , BC, GABRIOLA ISLAND",S1395492,P3,142108,Plumbing,Plumbing Repairs,"Plumbing Repairs :>Cistern ran out of water due to submersible pump, not functioning",CBT,SelfGen,CBRE Tech - Jason  Stochmal,NotAvailable,2023-07-05 02:18:41.960,2023-07-12 01:00:00.000,NotAvailable,161101,Water Delivery Service,Plumbing Repairs,34%
